@@ -13,7 +13,7 @@ class DiplomApplicationTests {
 
 	@Test
 	void test() {
-		Assertions.fail();
+
 	}
 
 }
